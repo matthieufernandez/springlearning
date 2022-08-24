@@ -24,7 +24,7 @@ public class HopespringseternalApplication {
 		return List.of(
 				new Student(
 						1L,
-						"Joseph",
+						"Gregor",
 						"joseph.kay@hotmail.com",
 						LocalDate.of(2000, Month.JANUARY, 11),
 						21
